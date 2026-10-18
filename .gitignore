@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.env
+data/index/
+data/company_docs/*
+!data/company_docs/.gitkeep
